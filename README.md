@@ -8,8 +8,8 @@
 
 ### 🚀 快速访问入口
 
-- ChatGPT 中文版入口：[ GPT中文版](https://chat.aibox365.cn)
-- ChatGPT 镜像网站入口：[GPT镜像](https://chat.write360.cn)
+- ChatGPT 中文版入口：[ GPT中文版](https://chat.aimirror123.com)
+- ChatGPT 镜像网站入口：[GPT镜像](https://www.chatgpt-mirrors.com/chatgpt)
 
 ## 🤔 什么是 ChatGPT 中文版？
 
@@ -25,8 +25,8 @@
 
 | 镜像站地址 | 支持模型 | 免费额度 | 注册方式 | 稳定性 | 功能亮点 |
 |-------------|-------------|-------------|-------------|---------|-------------|
-| [ gpt中文版](https://chat.aibox365.cn) | GPT-4o, GPT-5, GPT-o1, GPT-o3, o4, Claude, Gemini, Grok, DeepSeek | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 集成 GPT-4o，支持 MJ 绘图，适合开发者与普通用户 |
-| [gpt 镜像](https://chat.write360.cn) | GPT-4, GPT-4o, GPT-5, GPT-o1, o3, GPT-o4, AIPPT, MidJourney | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐⭐ | 完美复刻 GPT-o1 体验，支持 AI 助手、AI插件，覆盖多场景应用 |
+| [ gpt中文版](https://chat.aimirror123.com) | GPT-4o, GPT-5, GPT-o1, GPT-o3, o4, Claude, Gemini, Grok, DeepSeek | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐ | 集成 GPT-4o，支持 MJ 绘图，适合开发者与普通用户 |
+| [gpt 镜像](https://www.chatgpt-mirrors.com/chatgpt) | GPT-4, GPT-4o, GPT-5, GPT-o1, o3, GPT-o4, AIPPT, MidJourney | ✅ | 手机/邮箱注册 | ⭐⭐⭐⭐⭐⭐ | 完美复刻 GPT-o1 体验，支持 AI 助手、AI插件，覆盖多场景应用 |
 
 ## 🌟 为什么选择 ChatGPT 中文版？
 
